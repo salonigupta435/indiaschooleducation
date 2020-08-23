@@ -1,4 +1,11 @@
-Love it or hate it, Indian parents are increasingly demanding English-medium education.  In 2005, only 3\% of children in India were attending English-medium schools. Today, 21\% of children are learning in English-medium primary schools. In light of research that recommends mother tongue over English medium, are parents of these 21\% of children making a wrong decision? Not really. This is true despite a very clear research backed evidence that mother tongue is a more effective medium for learning.
+<!doctype html>
+<html>
+  <head>
+    <title>This is the title of the webpage!</title>
+  </head>
+  <body>
+    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+ Love it or hate it, Indian parents are increasingly demanding English-medium education.  In 2005, only 3\% of children in India were attending English-medium schools. Today, 21\% of children are learning in English-medium primary schools. In light of research that recommends mother tongue over English medium, are parents of these 21\% of children making a wrong decision? Not really. This is true despite a very clear research backed evidence that mother tongue is a more effective medium for learning.
 \begin{figure}[!htbp]
 \includegraphics[width=1\textwidth]{images/english-trends-years.png}
 \caption{English-medium private schools are steadily growing in enrolment share while other mediums of public and private schools struggle. Source: DISE 2005-2018}
@@ -19,3 +26,5 @@ In short, as long as the English fluency remains the signal for smartness, bias 
 The job of a good education policy on mother tongue should be to find the middle ground between what's ideal and what's pragmatic. As long as society values English, student need to develop English fluency at some stage and policy should  design to make that transition as easy as it can.  If they are learning in mother tongue medium primary schools, they need support in transitioning to English-medium at higher grades.   If children are learning in English-medium primary schools, they need support in understanding concepts in all subjects. The policy will need to support them either way.
 \par
 What we can and should ensure that children are fluent in both languages, whatever be the medium. This way, they will be prepared to overcome the relative economic and pedagogical disadvantages of either of the two mediums. Without a doubt, our children are blessed with genetic endowment to be fluent in multiple languages. Let's not underestimate them. Let us all just do better.
+ </body>
+</html>
